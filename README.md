@@ -1,16 +1,22 @@
-## Hi there 👋
+# I'm orfizm
 
-<!--
-**orfizm42/orfizm42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+学生です。様々な手段で課題を解決することを目指しています。  
+リーナス・トーバルズのTED講演に影響を受け、「その時作りたいものを作る」というスタイルで活動しています。  
+モットーは **「賢く怠惰に」 / "Work smart, stay lazy."**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills / スキル
+- **Languages:** Python / Rust / Others  
+- **Tools:** Zed / Neovim / JetBrains IDEs / Git / Linux  
+- **Interests:** Everything that sparks curiosity / 幅広く全て（AI, Web, System, Tool development など）
+
+---
+
+## 🌐 Links / リンク
+（今後追加予定 / Coming soon）
+- [Website / Portfolio]()  
+- [X (Twitter)]()  
+- [note]()  
+
+---
