@@ -10,7 +10,7 @@
 
 ### About Me
 
-Rust / C++ / Python を書くLinuxユーザー。低レイヤからアプリケーションまで幅広く触っています。Raspberry Piでの組み込み開発やホームサーバー運用も好きです。
+Rust / C++ / Python を勉強しています。
 
 ---
 
