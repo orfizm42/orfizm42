@@ -1,6 +1,6 @@
 <div align="center">
 
-# orfizm42
+# ORFIZM
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&random=false&width=400&lines=Rust+%2F+Python;Building+things+on+Linux)](https://git.io/typing-svg)
 
