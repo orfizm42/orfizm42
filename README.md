@@ -10,7 +10,7 @@
 
 ### About Me
 
-Rust / C++ / Python を勉強しています。
+Rust / C++ / Python を勉強しています。日本の高校生です。
 
 ---
 
