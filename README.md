@@ -1,35 +1,19 @@
 <div align="center">
 
-# `> orfizm42_`
+# orfizm42
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Rustacean+%F0%9F%A6%80;Python+Developer+%F0%9F%90%8D;Linux+Enthusiast+%F0%9F%90%A7;Always+learning+something+new...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&random=false&width=400&lines=Rust+%2F+Python;Building+things+on+Linux)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### `$ whoami`
-
-```text
- ┌──────────────────────────────────────────────┐
- │  OS      : Linux                             │
- │  Editor  : Zed / Neovim / JetBrains IDEs     │
- │  Shell   : probably something POSIX           │
- │  Langs   : Rust, Python, and more            │
- │  Status  : Building cool stuff               │
- └──────────────────────────────────────────────┘
-```
-
----
-
-### `$ cat skills.toml`
-
-**Languages**
+### Languages
 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools & Environment**
+### Tools & Environment
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,7 +25,7 @@
 
 ---
 
-### `$ github-stats --visual`
+### Stats
 
 <div align="center">
 
@@ -56,7 +40,7 @@
 
 ---
 
-### `$ cat links.json`
+### Links
 
 <div align="center">
 
